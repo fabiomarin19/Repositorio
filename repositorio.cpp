@@ -4,7 +4,7 @@ int main(){
  
 
 
-   cout<<"aaaaaa";
+   cout<<"eeeeeee";
 
 
 
